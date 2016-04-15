@@ -1,0 +1,46 @@
+"*":
+  core:
+    excludeVcsIgnoredPaths: false
+    projectHome: "/Users/john.lombardo/Documents/Repositories"
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontFamily: "Source Code Pro for Powerline"
+    fontSize: 11
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+  emmet: {}
+  "exception-reporting":
+    userId: "91b3a456-4909-0514-bab0-5905d182aa59"
+  "git-plus": {}
+  "language-babel": {}
+  linter: {}
+  "linter-scss-lint":
+    disableWhenNoConfigFileInPath: true
+    executablePath: "/Users/john.lombardo/.rvm/gems/ruby-2.2.1/wrappers/scss-lint"
+  minimap:
+    plugins:
+      bookmarks: true
+      bookmarksDecorationsZIndex: 0
+      codeglance: true
+      codeglanceDecorationsZIndex: 0
+      cursorline: true
+      cursorlineDecorationsZIndex: 0
+      "find-and-replace": true
+      "find-and-replaceDecorationsZIndex": 0
+      "git-diff": true
+      "git-diffDecorationsZIndex": 0
+      linter: true
+      linterDecorationsZIndex: 0
+      selection: true
+      selectionDecorationsZIndex: 0
+  react: {}
+  "seti-icons":
+    iconsPlus: true
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
